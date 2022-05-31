@@ -876,7 +876,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You need to select a number Between 0 - 100
+  m_Text: You need to guess a number Between 0 - 100
 --- !u!222 &1736512751
 CanvasRenderer:
   m_ObjectHideFlags: 0
